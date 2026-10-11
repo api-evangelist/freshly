@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "freshly",
+    "captured_at": "2026-10-11T185214",
+    "source_url": "https://freshly.com",
+    "source_type": "root-domain",
+    "file": "freshly-2026-10-11T185214.png",
+    "bytes": 18143,
+    "capture": "playwright-local"
+  }
+]
